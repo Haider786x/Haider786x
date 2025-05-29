@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on web project
 - 📫 How to reach me @mohammadhaider7864@gmail.com
 
-[![Haider's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haider786x)](https://github.com/Haider786x/github-readme-stats)
+[![Haider's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haider786x&theme=dark&show_icons=true)](https://github.com/Haider786x/github-readme-stats)
 
 <!---
 Haider786x/Haider786x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
