@@ -7,10 +7,10 @@
 [![Haider's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haider786x&theme=dark&show_icons=true)](https://github.com/Haider786x/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haider786x&layout=donut)](https://github.com/Haider786x/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Haider786x&repo=Recipe-finder)](https://github.com/Haider786x/Recipe-finder)
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/Haider786x/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Haider786xa" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/Haider786x/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Haider786x&layout=compact&langs_count=8&card_width=320" />
 </a>
 <!---
