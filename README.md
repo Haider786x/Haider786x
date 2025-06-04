@@ -8,10 +8,15 @@
 
   # 📊  Stats:
 [![Haider's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haider786x&theme=dark&show_icons=true)](https://github.com/Haider786x/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haider786x&layout=donut)](https://github.com/Haider786x/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Haider786x&repo=Recipe-finder)](https://github.com/Haider786x/Recipe-finder)
-[![Readme Card](https://stats.justsong.cn/api/leetcode/?username=Lordxgrim)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=Haider786x&theme=dark&short_numbers=true)](https://git.io/streak-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Haider786x&repo=Recipe-finder)](https://github.com/Haider786x/Recipe-finder)
+
+[![Readme Card](https://stats.justsong.cn/api/leetcode/?username=Lordxgrim)
+
 
 
 
