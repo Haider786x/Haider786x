@@ -1,4 +1,4 @@
-- Hi there, Haider here 👋🏼👨🏻‍💻
+- # Hi there, Haider here 👋🏼👨🏻‍💻
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Front end
 - 💞️ I’m looking to collaborate on web project
@@ -15,7 +15,7 @@
 
 
 
-💻 Tech Skills:
+# 💻 Tech Skills:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,cpp,c,css,github,html,js,react" />
