@@ -13,7 +13,7 @@
 [![Readme Card](https://stats.justsong.cn/api/leetcode/?username=Lordxgrim)
 
 
-
+![](https://github-contributor-stats.vercel.app/api?username=Haider786x&limit=5&theme=merko&combine_all_yearly_contributions=true)
 
 
 
