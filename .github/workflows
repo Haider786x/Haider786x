@@ -1,11 +1,16 @@
-name:Haider786x
+# This workflow configures the user-statistician to
+# generate only the contributions stats, using
+# the dark-dimmed color theme. It is configured on a daily 
+# schedule at 3am.
+
+name: Haider786x
 
 on:
   schedule:
     - cron: '0 3 * * *'
   push:
     branches: [ main, master ]
-    paths: [ '.github/workflows/dark-dimmed.yml' ]
+    paths: [ '.github/workflows/contributions.yml' ]
   workflow_dispatch:
 
 jobs:
@@ -19,5 +24,6 @@ jobs:
       uses: cicirello/user-statistician@v1
       with:
         colors: dark-dimmed
+        hide-keys: general, languages, repositories
       env:
         GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
