@@ -12,6 +12,8 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=Haider786x&theme=dark&short_numbers=true)](https://git.io/streak-stats)
 [![Readme Card](https://stats.justsong.cn/api/leetcode/?username=Lordxgrim)
 
+![My user statistics](images/userstats.svg)
+
 
 
 
