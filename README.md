@@ -12,8 +12,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Haider786x&theme=dark&short_numbers=true)](https://git.io/streak-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Haider786x&repo=Recipe-finder)](https://github.com/Haider786x/Recipe-finder)
-
 [![Readme Card](https://stats.justsong.cn/api/leetcode/?username=Lordxgrim)
 
 
