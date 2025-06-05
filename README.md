@@ -16,7 +16,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Haider786x&limit=5&theme=merko&combine_all_yearly_contributions=true)
 
 
-
 # 💻 Tech Skills:
 <p align="center">
   <a href="https://skillicons.dev">
