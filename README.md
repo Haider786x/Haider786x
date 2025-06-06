@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Front end
 - 💞️ I’m looking to collaborate on web project
-- 📫 How to reach me @mohammadhaider7864@gmail.com
+
 
 
 
