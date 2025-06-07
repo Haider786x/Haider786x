@@ -5,7 +5,6 @@
 
 
 
-
   # 📊 👨🏻‍💻  Stats:
 [![Haider's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haider786x&theme=dark&show_icons=true)](https://github.com/Haider786x/github-readme-stats)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haider786x&layout=donut)](https://github.com/Haider786x/github-readme-stats)
