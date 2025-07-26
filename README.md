@@ -1,6 +1,7 @@
 - # Hi there, Haider here 👋🏼👨🏻‍💻
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Front end
+- 💻 I want to work on context-aware systems.
+- 🌱 I’m currently learning back end
 - 💞️ I’m looking to collaborate on web project
 
 
