@@ -1,7 +1,7 @@
 - # Hi there, Haider here 👋🏼👨🏻‍💻
 - 👀 I’m interested in Web Development
 - 💻 I want to work on context-aware systems.
-- 🌱 I’m currently learning back end
+- 🌱 I’m currently learning Springboot
 - 💞️ I’m looking to collaborate on web project
 
 
@@ -20,7 +20,7 @@
 # 💻 Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cpp,c,css,github,html,js,react,nodejs,express,mongodb,mysql,java" />
+    <img src="https://skillicons.dev/icons?i=git,cpp,c,css,github,html,js,react,nodejs,express,mongodb,mysql,java,spring,springboot" />
   </a>
 </p>
 <!---
