@@ -9,7 +9,7 @@
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haider786x&layout=donut)](https://github.com/Haider786x/github-readme-stats)
  [![GitHub Streak](https://streak-stats.demolab.com?user=Haider786x&theme=dark&short_numbers=true)](https://git.io/streak-stats)-->
 
-[![Readme Card](https://stats.justsong.cn/api/leetcode/?username=Grimx21)
+![Readme Card](https://stats.justsong.cn/api/leetcode/?username=Grimx21)
 
 
 ![](https://github-contributor-stats.vercel.app/api?username=Haider786x&limit=5&theme=merko&combine_all_yearly_contributions=true)
