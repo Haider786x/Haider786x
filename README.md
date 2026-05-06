@@ -1,7 +1,5 @@
 - # Hi there, Haider here 👋🏼👨🏻‍💻
 - 👀 I’m interested in Web Development
-- 💻 I want to work on context-aware systems.
-- 🌱 I’m currently learning Springboot
 - 💞️ I’m looking to collaborate on web project
 
 
